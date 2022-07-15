@@ -1,1 +1,1 @@
-# javascript-interview-questions
+# react-interview-questions
